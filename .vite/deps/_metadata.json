@@ -1,0 +1,40 @@
+{
+  "hash": "deb360e5",
+  "configHash": "d18d157f",
+  "lockfileHash": "7350e5de",
+  "browserHash": "e107bee5",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "5f6ab940",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "76973ebb",
+      "needsInterop": true
+    },
+    "aos": {
+      "src": "../../node_modules/aos/dist/aos.js",
+      "file": "aos.js",
+      "fileHash": "7460e45a",
+      "needsInterop": true
+    },
+    "react-ambient-light": {
+      "src": "../../node_modules/react-ambient-light/dist/index.js",
+      "file": "react-ambient-light.js",
+      "fileHash": "0019f959",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-IGXLOIK6": {
+      "file": "chunk-IGXLOIK6.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
