@@ -6,10 +6,10 @@ export default function Projects() {
       <div className="projects-grid">
 
         {/* PROYECTO DESBLOQUEADO */}
-        <a href="https://docs.google.com/document/d/1EXSxej1rvvlqfOSlszls5DYPpOAyx8iv41qoCCUM9wY/edit?pli=1&tab=t.0" target="_blank" rel="noopener noreferrer" className="project-link">
+        <a href="https://docs.google.com/presentation/d/1GIEsD872XrhkQ_MCgLGdgV_flYkpZu8gCZmBQQglxYg/edit?usp=sharing" target="_blank" rel="noopener noreferrer" className="project-link">
           <div className="project-card unlocked">
             <img 
-              src="https://images.unsplash.com/photo-1556761175-4b46a572b786"
+              src="/EasyMove.png"
               alt="Proyecto Innovación"
             />
             <h3>EasyMove</h3>
